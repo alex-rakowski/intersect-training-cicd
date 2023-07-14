@@ -1,7 +1,6 @@
 name: Releases
 
 on:
-    workflow-dispatch:
     release:
         types:
         - published
